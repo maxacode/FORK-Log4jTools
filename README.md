@@ -1,6 +1,9 @@
 # Log4jTools
 Tools for investigating Log4j CVE-2021-44228
 
+![Screen Shot 2022-06-01 at 10 28 05 PM](https://user-images.githubusercontent.com/38732378/171537849-9404b854-ac26-47fe-8446-362d2e1c36a3.png)
+
+
 ## Bug explanation and Demo
 https://www.youtube.com/watch?v=0-abhd-CLwQ
 
